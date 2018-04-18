@@ -1,4 +1,4 @@
-update=Thursday, 29 March 2018 'pmt' 22:00:14
+update=Wednesday, 18 April 2018 'pmt' 15:40:05
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=/Users/eduardocontreras/Documents/kicad_libraries/kicad-symbols
@@ -237,3 +227,13 @@ LibName195=Valve
 LibName196=Video
 LibName197=/Users/eduardocontreras/Documents/kicad_libraries/kicad-ESP8266-master/ESP8266
 LibName198=/Volumes/Macintosh_HD/Documents/Electronic_Cats/Proyectos/Hw/flex-1/libraries/flex
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
