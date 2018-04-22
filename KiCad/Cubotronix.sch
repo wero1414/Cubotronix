@@ -197,6 +197,7 @@ LIBS:Valve
 LIBS:Video
 LIBS:ESP8266
 LIBS:flex
+LIBS:Cubotronix-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1155,7 +1156,7 @@ Wire Wire Line
 Wire Wire Line
 	600  6100 1285 6100
 Wire Wire Line
-	1565 6100 1565 6215
+	1565 5920 1565 6215
 Wire Wire Line
 	860  5950 860  6100
 Connection ~ 860  6100
@@ -1286,4 +1287,9 @@ Text Label 7655 5885 3    60   ~ 0
 SCL/GPIO5
 Text Notes 5680 710  0    60   ~ 0
 Pinout
+Wire Wire Line
+	1205 6100 1205 5920
+Wire Wire Line
+	1205 5920 1565 5920
+Connection ~ 1205 6100
 $EndSCHEMATC
